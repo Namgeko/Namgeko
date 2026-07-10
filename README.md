@@ -17,6 +17,8 @@
 ## 🌐 DedSec Nodes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFCC?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/firdaws-abiderrahmane) [![email](https://img.shields.io/badge/Email-00CC99?style=flat-square&logo=gmail&logoColor=black)](mailto:Namgeko@gmail.com) 
 
+* $\bullet$ **Languages**: French (Native), English (B2), Arabic (B2), German (B1), Japanese (A1), Korean (A1).
+
 # 💻 Exploit Arsenal:
 
 ### **Languages & Scripting**
@@ -27,10 +29,16 @@
 ![PHP](https://img.shields.io/badge/PHP-2A5040?style=flat-square&logo=php&logoColor=00FFCC) 
 ![Bash](https://img.shields.io/badge/Bash-0A1510?style=flat-square&logo=gnu-bash&logoColor=00FFCC) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-05201A?style=flat-square&logo=powershell&logoColor=00FFCC)
+![SQL](https://img.shields.io/badge/SQL-104035?style=flat-square&logo=sqlite&logoColor=00FFCC)
 ![HTML5](https://img.shields.io/badge/HTML5-3A6050?style=flat-square&logo=html5&logoColor=00FFCC) 
 ![CSS3](https://img.shields.io/badge/CSS3-204030?style=flat-square&logo=css3&logoColor=00FFCC)
 
 ### **Systems, Networks & Security**
+![Wireshark](https://img.shields.io/badge/Wireshark-008066?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-008066?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-301050?style=flat-square&logo=metasploit&logoColor=00FFCC)
+![Wazuh](https://img.shields.io/badge/Wazuh-006655?style=flat-square&logo=wazuh&logoColor=white)
+![Active Directory](https://img.shields.io/badge/ActiveDirectory-05201A?style=flat-square&logo=windows&logoColor=00FFCC)
 ![Cisco](https://img.shields.io/badge/Cisco-008066?style=flat-square&logo=cisco&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-006655?style=flat-square&logo=docker&logoColor=white) 
 ![Apache](https://img.shields.io/badge/Apache-00FFCC?style=flat-square&logo=apache&logoColor=black) 
@@ -38,6 +46,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-0A3025?style=flat-square&logo=mariadb&logoColor=00FFCC) 
 ![SQLite](https://img.shields.io/badge/SQLite-052018?style=flat-square&logo=sqlite&logoColor=00FFCC) 
 ![Tor](https://img.shields.io/badge/Tor-301050?style=flat-square&logo=tor-project&logoColor=00FFCC)
+![Root-Me](https://img.shields.io/badge/Root--Me-0A1510?style=flat-square&logo=probot&logoColor=00FFCC)
 
 ### **Hardware & Node Gear**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-990033?style=flat-square&logo=raspberry-pi&logoColor=white) 
@@ -52,6 +61,16 @@
 ![Qt](https://img.shields.io/badge/Qt-006622?style=flat-square&logo=qt&logoColor=00FFCC) 
 ![CMake](https://img.shields.io/badge/CMake-004D66?style=flat-square&logo=cmake&logoColor=00FFCC) 
 ![Watch Dogs](https://img.shields.io/badge/CTOS--HACK-00FFCC?style=flat-square&logo=ubisoft&logoColor=black)
+
+# 🚀 Featured Operations (Projects & Certs):
+<small>
+<p><b>[MISSION LOGS EXCERPT]</b></p>
+* $\bullet$ **SIEM Wazuh (Town Hall Internship):** Complete deployment of Wazuh for intrusion detection and log supervision, configuring custom agents, dashboards, and tailored alerts.
+* $\bullet$ **Automated Greenhouse (IoT):** Conception and programming of an automated greenhouse with ESP32, environmental sensors, and water pump, plus C++ and Qt interface development.
+* $\bullet$ **VLAN Architecture:** Design and deployment of a segmented network structure using routers, switches, and strict filtering rules.
+* $\bullet$ **Certifications & Training:** ISTQB Foundation Level, MOOC Sécurité Numérique - ANSSI, and Introduction to Cybersecurity - Cisco NetAcad.
+* $\bullet$ **Interests & Hobbies:** Chess (strategy & logic), combat sports/kung-fu, football, skateboard, and CTF/Root-Me challenges.
+</small>
 
 # 📊 CTOS Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Namgeko&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
