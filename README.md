@@ -1,71 +1,71 @@
-# 🦅 ANIMUS DATABASE // SUBJECT: NAMGEKO
-# SYNCHRONIZATION STATUS: 99.8%
+# [SYSTEM OVERRIDE // CTOS PROFILE: NAMGEKO]
+# NETWORK ACCESS: ROOT // STATUS: CONNECTED
 
 <small>
-<p><b>[MEMORY STREAM ACCESSED // MASTER ASSASSIN PROFILE]</b></p>
-<p>An Initiate of the Brotherhood trained in <b>BTS CIEL (Networks and IoT)</b>, navigating the eternal conflict between Order and Chaos through a specialized synthesis of <b>cybersecurity, network administration, and strategic oversight</b>.</p>
-<p>Trained to observe from the shadows and strike at vulnerabilities—deploying vigilance protocols like Wazuh, mapping out virtualized domains, and fortifying the infrastructure against Templar intrusion. Whether engineering autonomous artifacts or coordinating synchronized operations, dedicated to preserving freedom in the digital labyrinth.</p>
+<p><b>[INTERCEPTED TRANSMISSION // DEDSEC OPERATIVE]</b></p>
+<p>A digital operative graduated in <b>BTS CIEL (Networks and IoT)</b>, running a custom script combining <b>cybersecurity, network architecture, and system operations</b>.</p>
+<p>Skilled at cracking the grid—deploying surveillance loops like Wazuh, configuring hidden virtualized nodes, and patching vulnerabilities before anyone notices. Whether bypassing infrastructure protocols or managing critical systems from a terminal, ready to hack the urban sprawl and rewrite the code.</p>
 
 ---
 
-### Current Directive:
-* $\bullet$ **Active Reconnaissance:** Hardening network perimeters and directing technical assets across the grid.
-* $\bullet$ **Codex Study:** Upgrading offensive security tactics and mastering project coordination methodologies.
-* $\bullet$ **Hidden Blade Frequencies:** Reach out for discussions on network segmentation, Wazuh deployment logs, or operational synchronization.
+### Terminal Status:
+* $\bullet$ **Active Exploit:** Hardening network perimeters and rerouting infrastructure traffic.
+* $\bullet$ **Payload Download:** Upgrading penetration testing scripts and optimizing operational workflows.
+* $\bullet$ **Secure Ping:** Open channel for queries regarding network segmentation, Wazuh logs, or system architecture.
 </small>
 
-## 🌐 Brotherhood Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-abiderrahmane) [![email](https://img.shields.io/badge/Email-8B1E1E?style=flat-square&logo=gmail&logoColor=white)](mailto:Namgeko@gmail.com) 
+## 🌐 DedSec Nodes:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFCC?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/firdaws-abiderrahmane) [![email](https://img.shields.io/badge/Email-00CC99?style=flat-square&logo=gmail&logoColor=black)](mailto:Namgeko@gmail.com) 
 
-# 💻 Arsenal & Artifacts:
+# 💻 Exploit Arsenal:
 
 ### **Languages & Scripting**
-![C](https://img.shields.io/badge/C-8B1E1E?style=flat-square&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-8B1E1E?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-2A2A2A?style=flat-square&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/JavaScript-3A3A3A?style=flat-square&logo=javascript&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-4A2020?style=flat-square&logo=php&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-1A1A1A?style=flat-square&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-5A1010?style=flat-square&logo=powershell&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7A2020?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-3A1515?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00FFCC?style=flat-square&logo=c&logoColor=black) 
+![C++](https://img.shields.io/badge/C++-00FFCC?style=flat-square&logo=c%2B%2B&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-103328?style=flat-square&logo=python&logoColor=00FFCC) 
+![JavaScript](https://img.shields.io/badge/JavaScript-1A4035?style=flat-square&logo=javascript&logoColor=00FFCC) 
+![PHP](https://img.shields.io/badge/PHP-2A5040?style=flat-square&logo=php&logoColor=00FFCC) 
+![Bash](https://img.shields.io/badge/Bash-0A1510?style=flat-square&logo=gnu-bash&logoColor=00FFCC) 
+![PowerShell](https://img.shields.io/badge/PowerShell-05201A?style=flat-square&logo=powershell&logoColor=00FFCC)
+![HTML5](https://img.shields.io/badge/HTML5-3A6050?style=flat-square&logo=html5&logoColor=00FFCC) 
+![CSS3](https://img.shields.io/badge/CSS3-204030?style=flat-square&logo=css3&logoColor=00FFCC)
 
 ### **Systems, Networks & Security**
-![Cisco](https://img.shields.io/badge/Cisco-2A3A4A?style=flat-square&logo=cisco&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-1A2A3A?style=flat-square&logo=docker&logoColor=white) 
-![Apache](https://img.shields.io/badge/Apache-8B1E1E?style=flat-square&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-1F3A52?style=flat-square&logo=mysql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-102A35?style=flat-square&logo=mariadb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-0C1E25?style=flat-square&logo=sqlite&logoColor=white) 
-![Tor](https://img.shields.io/badge/Tor-401550?style=flat-square&logo=tor-project&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-008066?style=flat-square&logo=cisco&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-006655?style=flat-square&logo=docker&logoColor=white) 
+![Apache](https://img.shields.io/badge/Apache-00FFCC?style=flat-square&logo=apache&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-104035?style=flat-square&logo=mysql&logoColor=00FFCC) 
+![MariaDB](https://img.shields.io/badge/MariaDB-0A3025?style=flat-square&logo=mariadb&logoColor=00FFCC) 
+![SQLite](https://img.shields.io/badge/SQLite-052018?style=flat-square&logo=sqlite&logoColor=00FFCC) 
+![Tor](https://img.shields.io/badge/Tor-301050?style=flat-square&logo=tor-project&logoColor=00FFCC)
 
-### **Hardware & Relics**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-6B1414?style=flat-square&logo=raspberry-pi&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-004D40?style=flat-square&logo=arduino&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-801010?style=flat-square&logo=espressif&logoColor=white) 
-![Node-RED](https://img.shields.io/badge/Node--RED-5B0F0F?style=flat-square&logo=node-red&logoColor=white) 
-![PlatformIO](https://img.shields.io/badge/PlatformIO-702500?style=flat-square&logo=platformio&logoColor=white)
+### **Hardware & Node Gear**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-990033?style=flat-square&logo=raspberry-pi&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-008B8B?style=flat-square&logo=arduino&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-CC0033?style=flat-square&logo=espressif&logoColor=white) 
+![Node-RED](https://img.shields.io/badge/Node--RED-800020?style=flat-square&logo=node-red&logoColor=white) 
+![PlatformIO](https://img.shields.io/badge/PlatformIO-B34700?style=flat-square&logo=platformio&logoColor=white)
 
-### **Tools & Creed**
-![Git](https://img.shields.io/badge/Git-701A10?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-0D4A1A?style=flat-square&logo=qt&logoColor=white) 
-![CMake](https://img.shields.io/badge/CMake-1A4050?style=flat-square&logo=cmake&logoColor=white) 
-![Assassin's Creed](https://img.shields.io/badge/CREED-8B1E1E?style=flat-square&logo=ubisoft&logoColor=white)
+### **Tools & CTOS Bypass**
+![Git](https://img.shields.io/badge/Git-993300?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00FFCC) 
+![Qt](https://img.shields.io/badge/Qt-006622?style=flat-square&logo=qt&logoColor=00FFCC) 
+![CMake](https://img.shields.io/badge/CMake-004D66?style=flat-square&logo=cmake&logoColor=00FFCC) 
+![Watch Dogs](https://img.shields.io/badge/CTOS--HACK-00FFCC?style=flat-square&logo=ubisoft&logoColor=black)
 
-# 📊 Animus Metrics:
-![](https://github-readme-stats.shion.dev/api?username=Namgeko&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Namgeko&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Namgeko&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 System Telemetry:
+![](https://github-readme-stats.shion.dev/api?username=Namgeko&theme=cyberpunk&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Namgeko&theme=cyberpunk&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Namgeko&theme=cyberpunk&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Master Assassin Trophies
-![](https://github-profile-trophy.vercel.app/?username=Namgeko&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Hacker Trophies
+![](https://github-profile-trophy.vercel.app/?username=Namgeko&theme=cyberpunk&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Creed Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ DedSec Logs
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk)
 
-### 🔝 Primary Target Repo
-![](https://github-contributor-stats.vercel.app/api?username=Namgeko&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🔝 Primary Target Node
+![](https://github-contributor-stats.vercel.app/api?username=Namgeko&limit=5&theme=cyberpunk&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Namgeko&icon=0&color=8B1E1E)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Namgeko&icon=0&color=00FFCC)](https://visitcount.itsvg.in)
