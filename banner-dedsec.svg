@@ -1,0 +1,83 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#02060a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="300" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+    <!-- matrix rain columns -->
+    <g font-family="JetBrains Mono, monospace" font-size="14" fill="#00ff9c" opacity="0.35">
+      <text x="12"  y="-40"><tspan>ﾊ</tspan><tspan x="12" dy="18">0</tspan><tspan x="12" dy="18">ｦ</tspan><tspan x="12" dy="18">1</tspan><tspan x="12" dy="18">ｳ</tspan><tspan x="12" dy="18">C</tspan><tspan x="12" dy="18">7</tspan><tspan x="12" dy="18">ﾁ</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.1s" repeatCount="indefinite"/>
+      </text>
+      <text x="52"  y="-60"><tspan>0</tspan><tspan x="52" dy="18">ﾎ</tspan><tspan x="52" dy="18">3</tspan><tspan x="52" dy="18">ｹ</tspan><tspan x="52" dy="18">9</tspan><tspan x="52" dy="18">ﾒ</tspan><tspan x="52" dy="18">A</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="4.3s" begin="0.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="92"  y="-30"><tspan>ｦ</tspan><tspan x="92" dy="18">F</tspan><tspan x="92" dy="18">5</tspan><tspan x="92" dy="18">ﾆ</tspan><tspan x="92" dy="18">2</tspan><tspan x="92" dy="18">ｱ</tspan><tspan x="92" dy="18">8</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+      </text>
+      <text x="1108" y="-50"><tspan>ｳ</tspan><tspan x="1108" dy="18">4</tspan><tspan x="1108" dy="18">ﾜ</tspan><tspan x="1108" dy="18">D</tspan><tspan x="1108" dy="18">6</tspan><tspan x="1108" dy="18">ｴ</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.7s" begin="0.2s" repeatCount="indefinite"/>
+      </text>
+      <text x="1148" y="-20"><tspan>ﾁ</tspan><tspan x="1148" dy="18">7</tspan><tspan x="1148" dy="18">ｵ</tspan><tspan x="1148" dy="18">E</tspan><tspan x="1148" dy="18">1</tspan><tspan x="1148" dy="18">ﾈ</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.0s" begin="1.2s" repeatCount="indefinite"/>
+      </text>
+      <text x="1068" y="-70"><tspan>ｱ</tspan><tspan x="1068" dy="18">9</tspan><tspan x="1068" dy="18">ﾉ</tspan><tspan x="1068" dy="18">3</tspan><tspan x="1068" dy="18">ｶ</tspan><tspan x="1068" dy="18">B</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="4.0s" begin="0.6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- scanlines -->
+    <g opacity="0.06">
+      <rect x="0" y="0" width="1200" height="1" fill="#00ff9c"/>
+      <rect x="0" y="0" width="1200" height="300" fill="url(#scan)"/>
+    </g>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#00ff9c"/>
+    </pattern>
+
+    <!-- border frame -->
+    <rect x="4" y="4" width="1192" height="292" fill="none" stroke="#00ffc8" stroke-width="1.5" opacity="0.5"/>
+    <text x="24" y="26" font-family="JetBrains Mono, monospace" font-size="13" fill="#00ffc8" opacity="0.8">CTOS://SECURE_CHANNEL_ESTABLISHED</text>
+    <text x="1176" y="286" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="12" fill="#00ffc8" opacity="0.6">NODE_ID: 0xDEDSEC</text>
+
+    <!-- glitch title: red/cyan offset copies -->
+    <text x="600" y="150" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="700" font-size="72" fill="#ff2d55" opacity="0.6">
+      NAMGEKO
+      <animate attributeName="x" values="600;596;604;598;600" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="150" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="700" font-size="72" fill="#00e5ff" opacity="0.6">
+      NAMGEKO
+      <animate attributeName="x" values="600;604;596;602;600" dur="2.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="150" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="700" font-size="72" fill="#eafff5" filter="url(#glow)">
+      NAMGEKO
+      <animate attributeName="opacity" values="1;1;0.85;1;1;0.9;1" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="600" y="188" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="17" letter-spacing="4" fill="#00ffc8" filter="url(#glow)">
+      CYBERSECURITY &amp; NETWORK OPERATIVE
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+    </text>
+
+    <rect x="470" y="212" width="260" height="26" fill="none" stroke="#00ff9c" stroke-width="1"/>
+    <text x="600" y="230" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="14" fill="#00ff9c">
+      ACCESS GRANTED
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
