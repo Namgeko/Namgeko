@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B2B,100:00FFC8&height=220&section=header&text=CTOS://NAMGEKO&fontSize=55&fontColor=00FFC8&fontAlignY=40&animation=twinkling&desc=DEDSEC%20//%20CYBERSECURITY%20OPERATIVE&descAlignY=62&descSize=18&descColor=00FFC8" width="100%"/>
+<img src="https://raw.githubusercontent.com/Namgeko/Namgeko/main/banner-dedsec.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&width=900&lines=CTOS+NETWORK+BREACHED...;ACCESS+GRANTED+%F0%9F%94%93;IDENTITY+%3A+NAM+%2F%2F+NAMGEKO;ROLE+%3A+CYBERSECURITY+%26+NETWORK+ENGINEER;STATUS+%3A+SEARCHING+FOR+APPRENTICESHIP" />
 
