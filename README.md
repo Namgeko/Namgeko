@@ -54,7 +54,7 @@
 ![Watch Dogs](https://img.shields.io/badge/CTOS--HACK-00FFCC?style=flat-square&logo=ubisoft&logoColor=black)
 
 # 📊 System Telemetry:
-![](https://github-readme-stats.shion.dev/api?username=Namgeko&theme=cyberpunk&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Namgeko&theme=cyberpunk&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Namgeko&theme=cyberpunk&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Namgeko&theme=cyberpunk&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
