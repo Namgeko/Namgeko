@@ -32,7 +32,7 @@ identity:
 
 objective:
   goal: Ingénieur Cybersécurité
-  status: Recherche une alternance en cybersécurité
+  status: Recherche une alternance en cybersécurité ou Réseaux
 
 expertise:
   - SOC / Blue Team
@@ -42,7 +42,7 @@ expertise:
   - Sécurité Réseau
 
 mindset: >
-  Passionné par la cybersécurité, l'infrastructure et l'administration système.
+  Titulaire du diplôme du BTS CIEL IR et passionnée par la cybersécurité, l'infrastructure et l'administration système.
   J'aime sécuriser des environnements d'entreprise, déployer des solutions de
   supervision, automatiser les tâches répétitives et apprendre en continu.
 ```
@@ -100,15 +100,15 @@ mindset: >
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ WAZUH SIEM
+###  WAZUH SIEM
 **Déploiement complet d'une infrastructure de supervision**
 
-- ✅ Configuration du dashboard
-- ✅ Déploiement d'agents
-- ✅ Analyse de logs & corrélation
-- ✅ Automatisation des alertes
-- ✅ Règles de détection custom
-- ✅ Surveillance des intrusions
+-  Configuration du dashboard
+-  Déploiement d'agents
+-  Analyse de logs & corrélation
+-  Automatisation des alertes
+-  Règles de détection custom
+-  Surveillance des intrusions
 
 `SIEM` `Blue Team` `Detection Engineering`
 
@@ -118,10 +118,10 @@ mindset: >
 ###  SMART GREENHOUSE
 **Serre connectée pilotée par ESP32**
 
-- 🌡️ Monitoring température & humidité
-- 💧 Humidité du sol en temps réel
-- 🚿 Irrigation automatique
-- 🖥️ Interface desktop Qt
+-  Monitoring température & humidité
+-  Humidité du sol en temps réel
+-  Irrigation automatique
+-  Interface desktop Qt
 
 `ESP32` `Qt` `C++` `IoT`
 
@@ -133,11 +133,11 @@ mindset: >
 ###  ENTERPRISE NETWORK
 **Conception d'une infrastructure réseau d'entreprise**
 
-- 🔀 VLAN & segmentation
-- 🧭 Routage inter-VLAN
-- 🔐 ACL & filtrage
-- 🖧 Switches & routeurs Cisco
-- 🏰 Architecture sécurisée
+-  VLAN & segmentation
+-  Routage inter-VLAN
+-  ACL & filtrage
+-  Switches & routeurs Cisco
+-  Architecture sécurisée
 
 `Cisco` `Networking` `Security Architecture`
 
@@ -147,10 +147,10 @@ mindset: >
 ### CERTIFICATIONS
 **Formation continue & veille technique**
 
-- ✔️ Cisco NetAcad
-- ✔️ ANSSI MOOC (SecNumacadémie)
-- ✔️ ISTQB Foundation
-- ✔️ Introduction to Cybersecurity
+- Cisco NetAcad
+- ANSSI MOOC (SecNumacadémie)
+- ISTQB Foundation
+- Introduction to Cybersecurity
 
 `Formation` `Veille` `Certifications`
 
