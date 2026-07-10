@@ -1,12 +1,56 @@
 # 💫 About Me:
-### About Me<br><br>> "Hi! I'm a recent graduate in **BTS CIEL (Networks and IoT)** with a hybrid profile spanning **cybersecurity, network administration, and project management**.<br>> I enjoy handling the technical side of things—like deploying SIEM solutions, configuring virtualized labs, and hardening network architectures—while keeping a strong focus on organization, coordination, and problem-solving. Whether I'm building automated IoT prototypes or managing security projects, I love turning complex challenges into secure, reliable solutions."<br><br>---<br><br>### Quick Status & Details to add below:<br><br>* 🔭 I’m currently working on **hardening network architectures and managing technical projects**.<br>* 🌱 I’m currently learning **advanced penetration testing and expanding my project coordination skills**.<br>* 💬 Ask me about **network segmentation (VLANs), Wazuh deployments, or technical project workflows**.
 
+<small>
+<p>Hi! I'm a recent graduate in <b>BTS CIEL (Networks and IoT)</b> with a hybrid profile spanning <b>cybersecurity, network administration, and project management</b>.</p>
+<p>I enjoy handling the technical side of things—like deploying SIEM solutions, configuring virtualized labs, and hardening network architectures—while keeping a strong focus on organization, coordination, and problem-solving. Whether I'm building automated IoT prototypes or managing security projects, I love turning complex challenges into secure, reliable solutions.</p>
+
+---
+
+### Quick Status & Details:
+* $\bullet$ I’m currently working on **hardening network architectures and managing technical projects**.
+* $\bullet$ I’m currently learning **advanced penetration testing and expanding my project coordination skills**.
+* $\bullet$ Ask me about **network segmentation (VLANs), Wazuh deployments, or technical project workflows**.
+</small>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/� � www.linkedin.com/in/firdaws-abiderrahmane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Namgeko@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-abiderrahmane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Namgeko@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=plastic&logo=Analogue&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=plastic&logo=platformio&logoColor=%23f5822a) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
+
+### **Languages & Scripting**
+![C](https://img.shields.io/badge/C-003791?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-003791?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4E4D4D?style=flat-square&logo=gnu-bash&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat-square&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **Systems, Networks & Security**
+![Cisco](https://img.shields.io/badge/Cisco-1BA1E2?style=flat-square&logo=cisco&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) 
+![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=tor-project&logoColor=white)
+
+### **Hardware & IoT**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) 
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white) 
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+
+### **Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) 
+![CMake](https://img.shields.io/badge/CMake-008FBA?style=flat-square&logo=cmake&logoColor=white) 
+![PlayStation](https://img.shields.io/badge/PSP%202000-0070D1?style=flat-square&logo=playstation&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Namgeko&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Namgeko&theme=gotham&hide_border=false)<br/>
