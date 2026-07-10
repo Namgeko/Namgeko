@@ -1,89 +1,296 @@
-# [SYSTEM OVERRIDE // CTOS PROFILE: NAMGEKO]
-# NETWORK ACCESS: ROOT // STATUS: CONNECTED
+<div align="center">
 
-<small>
-<p><b>[INTERCEPTED TRANSMISSION // DEDSEC OPERATIVE]</b></p>
-<p>A digital operative graduated in <b>BTS CIEL (Networks and IoT)</b>, running a custom script combining <b>cybersecurity, network architecture, and system operations</b>.</p>
-<p>Skilled at cracking the grid—deploying surveillance loops like Wazuh, configuring hidden virtualized nodes, and patching vulnerabilities before anyone notices. Whether bypassing infrastructure protocols or managing critical systems from a terminal, ready to hack the urban sprawl and rewrite the code.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B2B,100:00FFC8&height=220&section=header&text=CTOS://NAMGEKO&fontSize=55&fontColor=00FFC8&fontAlignY=40&animation=twinkling&desc=DEDSEC%20//%20CYBERSECURITY%20OPERATIVE&descAlignY=62&descSize=18&descColor=00FFC8" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&width=900&lines=CTOS+NETWORK+BREACHED...;ACCESS+GRANTED+%F0%9F%94%93;IDENTITY+%3A+NAM+%2F%2F+NAMGEKO;ROLE+%3A+CYBERSECURITY+%26+NETWORK+ENGINEER;STATUS+%3A+SEARCHING+FOR+APPRENTICESHIP" />
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF99?style=for-the-badge&logo=statuspage&logoColor=black)
+![Formation](https://img.shields.io/badge/BTS-CIEL-00FF99?style=for-the-badge&logo=studyverse&logoColor=black)
+![Focus](https://img.shields.io/badge/FOCUS-BLUE_TEAM-black?style=for-the-badge&logo=hackthebox&logoColor=00FF99)
+![Available](https://img.shields.io/badge/ALTERNANCE-DISPONIBLE-00FF99?style=for-the-badge&logo=target&logoColor=black)
+
+<br>
+
+> *"Everything is connected. Secure everything."*
+
+</div>
+
+---
+
+<h2 align="center">📡 SYSTEM_LOG — WHOAMI</h2>
+
+```yaml
+> whoami --verbose
+
+identity:
+  name: Nam
+  alias: Namgeko
+  role: Cybersecurity & Network Engineer
+  education: BTS CIEL
+
+objective:
+  goal: Ingénieur Cybersécurité
+  status: Recherche une alternance en cybersécurité
+
+expertise:
+  - SOC / Blue Team
+  - Infrastructure & Administration Systèmes
+  - Linux Hardening
+  - Active Directory
+  - Sécurité Réseau
+
+mindset: >
+  Passionné par la cybersécurité, l'infrastructure et l'administration système.
+  J'aime sécuriser des environnements d'entreprise, déployer des solutions de
+  supervision, automatiser les tâches répétitives et apprendre en continu.
+```
 
 ---
 
-### Terminal Status:
-* $\bullet$ **Active Exploit:** Hardening network perimeters and rerouting infrastructure traffic.
-* $\bullet$ **Payload Download:** Upgrading penetration testing scripts and optimizing operational workflows.
-* $\bullet$ **Secure Ping:** Open channel for queries regarding network segmentation, Wazuh logs, or system architecture.
-</small>
+<h2 align="center">🌐 CONNEXION SÉCURISÉE</h2>
 
-## 🌐 DedSec Nodes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFCC?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/firdaws-abiderrahmane) [![email](https://img.shields.io/badge/Email-00CC99?style=flat-square&logo=gmail&logoColor=black)](mailto:Namgeko@gmail.com) 
+<div align="center">
 
-* $\bullet$ **Languages**: French (Native), English (B2), Arabic (B2), German (B1), Japanese (A1), Korean (A1).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFC8?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/firdaws-abiderrahmane)
+[![Email](https://img.shields.io/badge/Email-00CC99?style=for-the-badge&logo=gmail&logoColor=black)](mailto:Namgeko@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00FFC8)](https://github.com/Namgeko)
 
-# 💻 Exploit Arsenal:
-
-### **Languages & Scripting**
-![C](https://img.shields.io/badge/C-00FFCC?style=flat-square&logo=c&logoColor=black) 
-![C++](https://img.shields.io/badge/C++-00FFCC?style=flat-square&logo=c%2B%2B&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-103328?style=flat-square&logo=python&logoColor=00FFCC) 
-![JavaScript](https://img.shields.io/badge/JavaScript-1A4035?style=flat-square&logo=javascript&logoColor=00FFCC) 
-![PHP](https://img.shields.io/badge/PHP-2A5040?style=flat-square&logo=php&logoColor=00FFCC) 
-![Bash](https://img.shields.io/badge/Bash-0A1510?style=flat-square&logo=gnu-bash&logoColor=00FFCC) 
-![PowerShell](https://img.shields.io/badge/PowerShell-05201A?style=flat-square&logo=powershell&logoColor=00FFCC)
-![SQL](https://img.shields.io/badge/SQL-104035?style=flat-square&logo=sqlite&logoColor=00FFCC)
-![HTML5](https://img.shields.io/badge/HTML5-3A6050?style=flat-square&logo=html5&logoColor=00FFCC) 
-![CSS3](https://img.shields.io/badge/CSS3-204030?style=flat-square&logo=css3&logoColor=00FFCC)
-
-### **Systems, Networks & Security**
-![Wireshark](https://img.shields.io/badge/Wireshark-008066?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-008066?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-301050?style=flat-square&logo=metasploit&logoColor=00FFCC)
-![Wazuh](https://img.shields.io/badge/Wazuh-006655?style=flat-square&logo=wazuh&logoColor=white)
-![Active Directory](https://img.shields.io/badge/ActiveDirectory-05201A?style=flat-square&logo=windows&logoColor=00FFCC)
-![Cisco](https://img.shields.io/badge/Cisco-008066?style=flat-square&logo=cisco&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-006655?style=flat-square&logo=docker&logoColor=white) 
-![Apache](https://img.shields.io/badge/Apache-00FFCC?style=flat-square&logo=apache&logoColor=black) 
-![MySQL](https://img.shields.io/badge/MySQL-104035?style=flat-square&logo=mysql&logoColor=00FFCC) 
-![MariaDB](https://img.shields.io/badge/MariaDB-0A3025?style=flat-square&logo=mariadb&logoColor=00FFCC) 
-![SQLite](https://img.shields.io/badge/SQLite-052018?style=flat-square&logo=sqlite&logoColor=00FFCC) 
-![Tor](https://img.shields.io/badge/Tor-301050?style=flat-square&logo=tor-project&logoColor=00FFCC)
-![Root-Me](https://img.shields.io/badge/Root--Me-0A1510?style=flat-square&logo=probot&logoColor=00FFCC)
-
-### **Hardware & Node Gear**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-990033?style=flat-square&logo=raspberry-pi&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-008B8B?style=flat-square&logo=arduino&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-CC0033?style=flat-square&logo=espressif&logoColor=white) 
-![Node-RED](https://img.shields.io/badge/Node--RED-800020?style=flat-square&logo=node-red&logoColor=white) 
-![PlatformIO](https://img.shields.io/badge/PlatformIO-B34700?style=flat-square&logo=platformio&logoColor=white)
-
-### **Tools & CTOS Bypass**
-![Git](https://img.shields.io/badge/Git-993300?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00FFCC) 
-![Qt](https://img.shields.io/badge/Qt-006622?style=flat-square&logo=qt&logoColor=00FFCC) 
-![CMake](https://img.shields.io/badge/CMake-004D66?style=flat-square&logo=cmake&logoColor=00FFCC) 
-![Watch Dogs](https://img.shields.io/badge/CTOS--HACK-00FFCC?style=flat-square&logo=ubisoft&logoColor=black)
-
-# 🚀 Featured Operations (Projects & Certs):
-<small>
-<p><b>[MISSION LOGS EXCERPT]</b></p>
-* $\bullet$ **SIEM Wazuh (Town Hall Internship):** Complete deployment of Wazuh for intrusion detection and log supervision, configuring custom agents, dashboards, and tailored alerts.
-* $\bullet$ **Automated Greenhouse (IoT):** Conception and programming of an automated greenhouse with ESP32, environmental sensors, and water pump, plus C++ and Qt interface development.
-* $\bullet$ **VLAN Architecture:** Design and deployment of a segmented network structure using routers, switches, and strict filtering rules.
-* $\bullet$ **Certifications & Training:** ISTQB Foundation Level, MOOC Sécurité Numérique - ANSSI, and Introduction to Cybersecurity - Cisco NetAcad.
-* $\bullet$ **Interests & Hobbies:** Chess (strategy & logic), combat sports/kung-fu, football, skateboard, and CTF/Root-Me challenges.
-</small>
-
-# 📊 CTOS Stats:
-![](https://github-readme-stats.shion.dev/api?username=Namgeko&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Namgeko&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Namgeko&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 Hacker Trophies
-![](https://github-profile-trophy.vercel.app/?username=Namgeko&theme=cyberpunk&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ DedSec Logs
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-### 🔝 Primary Target Node
-![](https://github-contributor-stats.vercel.app/api?username=Namgeko&limit=5&theme=cyberpunk&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Namgeko&icon=0&color=00FFCC)](https://visitcount.itsvg.in)
+
+<h2 align="center">🌍 LANGUAGE_PACKS.INSTALLED</h2>
+
+<div align="center">
+
+| 🇫🇷 Français | 🇬🇧 Anglais | 🇸🇦 Arabe | 🇩🇪 Allemand | 🇰🇷 Coréen | 🇯🇵 Japonais |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Natif | B2 | B2 | B1 | A1 | A1 |
+
+</div>
+
+---
+
+<h2 align="center">💻 TECH_STACK.LOADED</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,javascript,bash,powershell,html,css,mysql,sqlite,git,linux,docker,github,raspberrypi,arduino&theme=dark"/>
+</p>
+
+<div align="center">
+
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-black?style=for-the-badge&logo=wazuh&logoColor=00FF99)
+![AD](https://img.shields.io/badge/Active_Directory-black?style=for-the-badge&logo=microsoft&logoColor=00FF99)
+![Cisco](https://img.shields.io/badge/Cisco_IOS-black?style=for-the-badge&logo=cisco&logoColor=00FF99)
+![VLAN](https://img.shields.io/badge/VLAN-black?style=for-the-badge&logo=nodemcu&logoColor=00FF99)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=00FF99)
+![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=00FF99)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=00FF99)
+![RootMe](https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=hackaday&logoColor=00FF99)
+
+</div>
+
+---
+
+<h2 align="center">🚀 MISSIONS.EXE</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ WAZUH SIEM
+**Déploiement complet d'une infrastructure de supervision**
+
+- ✅ Configuration du dashboard
+- ✅ Déploiement d'agents
+- ✅ Analyse de logs & corrélation
+- ✅ Automatisation des alertes
+- ✅ Règles de détection custom
+- ✅ Surveillance des intrusions
+
+`SIEM` `Blue Team` `Detection Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 SMART GREENHOUSE
+**Serre connectée pilotée par ESP32**
+
+- 🌡️ Monitoring température & humidité
+- 💧 Humidité du sol en temps réel
+- 🚿 Irrigation automatique
+- 🖥️ Interface desktop Qt
+
+`ESP32` `Qt` `C++` `IoT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 ENTERPRISE NETWORK
+**Conception d'une infrastructure réseau d'entreprise**
+
+- 🔀 VLAN & segmentation
+- 🧭 Routage inter-VLAN
+- 🔐 ACL & filtrage
+- 🖧 Switches & routeurs Cisco
+- 🏰 Architecture sécurisée
+
+`Cisco` `Networking` `Security Architecture`
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 CERTIFICATIONS
+**Formation continue & veille technique**
+
+- ✔️ Cisco NetAcad
+- ✔️ ANSSI MOOC (SecNumacadémie)
+- ✔️ ISTQB Foundation
+- ✔️ Introduction to Cybersecurity
+
+`Formation` `Veille` `Certifications`
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📊 DATA_STREAM — GITHUB STATS</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Namgeko&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FFC8&icon_color=00FFC8&text_color=c9d1d9&border_color=00FFC8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namgeko&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FFC8&text_color=c9d1d9&border_color=00FFC8"/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Namgeko&hide_border=true&background=0D1117&stroke=00FFC8&ring=00FFC8&fire=00FFC8&currStreakLabel=00FFC8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Namgeko&theme=react-dark&bg_color=0D1117&color=00FFC8&line=00FFC8&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 TROPHY_ROOM</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Namgeko&theme=darkhub&no-frame=true&row=2&column=4"/>
+</div>
+
+---
+
+<h2 align="center">🐍 CTOS_TRACE — CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Namgeko/Namgeko/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<sub>⚠️ Le serpent s'anime automatiquement chaque jour via GitHub Actions — voir le fichier <code>snake.yml</code> fourni ci-dessous pour l'activer sur ton dépôt.</sub>
+
+</div>
+
+---
+
+<h2 align="center">🎯 CURRENT_MISSION.PROGRESS</h2>
+
+```text
+████████████████████████████████████████
+
+SYSTEM STATUS
+
+Linux             █████████████░░  85%
+Windows Server    ██████████░░░░░  70%
+Networking        ██████████████░  90%
+Cybersecurity     █████████████░░  85%
+Python            █████████░░░░░░  70%
+SOC               ███████████░░░░  80%
+
+████████████████████████████████████████
+```
+
+---
+
+<h2 align="center">📚 NOW_LOADING...</h2>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+**Systèmes**
+- Linux Hardening
+- Windows Server
+
+</td>
+<td valign="top">
+
+**Cybersécurité**
+- SOC
+- Threat Hunting
+- Detection Engineering
+
+</td>
+<td valign="top">
+
+**Réseau**
+- Cisco
+- Infrastructure d'entreprise
+
+</td>
+<td valign="top">
+
+**Prochaines certifs**
+- Security+
+- eJPT
+- OSCP
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🎮 OFFLINE_MODE</h2>
+
+<div align="center">
+
+♟️ Échecs&nbsp;&nbsp;|&nbsp;&nbsp;🥋 Sports de combat&nbsp;&nbsp;|&nbsp;&nbsp;⚽ Football&nbsp;&nbsp;|&nbsp;&nbsp;🛹 Skate&nbsp;&nbsp;|&nbsp;&nbsp;🎮 Gaming&nbsp;&nbsp;|&nbsp;&nbsp;🌍 Voyages
+
+</div>
+
+---
+
+<h2 align="center">💻 TERMINAL</h2>
+
+```bash
+$ sudo systemctl status namgeko
+
+● cybersecurity.service - CTOS Operative Node
+   Loaded: enabled
+   Active: ● active (running)
+
+   Monitoring   : ENABLED
+   Firewall     : RUNNING
+   Network      : SECURED
+   Logs         : STREAMING
+   Mission      : FINDING NEW CHALLENGES
+```
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Namgeko&style=for-the-badge&color=00FFC8&label=CTOS+VISITORS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC8,50:003B2B,100:000000&height=120&section=footer"/>
+
+**⚡ Merci d'avoir consulté ce profil.**
+
+*"Hack the code. Secure the future."*
+
+</div>
