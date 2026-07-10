@@ -62,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Namgeko&theme=cyberpunk&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ DedSec Logs
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Primary Target Node
 ![](https://github-contributor-stats.vercel.app/api?username=Namgeko&limit=5&theme=cyberpunk&combine_all_yearly_contributions=true)
