@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Namgeko/Namgeko/main/banner-dedsec.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&width=900&lines=CTOS+NETWORK+BREACHED...;ANIMUS+SYNCHRONIZATION+%3A+100%25;UMBRELLA+DATABASE+%3A+ACCESS+GRANTED+%F0%9F%94%93;IDENTITY+%3A+NAM+%2F%2F+NAMGEKO;TITLE+%3A+MASTER+ASSASSIN+%26+NETWORK+GUARDIAN;STATUS+%3A+SEEKING+A+NEW+BROTHERHOOD+(ALTERNANCE)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&width=900&lines=CTOS+NETWORK+BREACHED...;ACCESS+GRANTED+%F0%9F%94%93;IDENTITY+%3A+NAM+%2F%2F+NAMGEKO;ROLE+%3A+CYBERSECURITY+%26+NETWORK+ENGINEER;STATUS+%3A+SEARCHING+FOR+APPRENTICESHIP" />
 
 <br>
 
@@ -13,46 +13,43 @@
 
 <br>
 
-> *"Un royaume ne tient que par ceux qui veillent dans l'ombre. Nothing is true, everything is protected."*
+> *"Everything is connected. Secure everything."*
 
 </div>
 
 ---
 
-<h2 align="center">🗡️ DOSSIER DE LA CONFRÉRIE — ANIMUS LOG</h2>
+<h2 align="center"> SYSTEM_LOG — WHOAMI</h2>
 
 ```yaml
-> access animus_core --entry=Namgeko --clearance=master_assassin
+> whoami --verbose
 
-identité:
-  nom_de_code: Namgeko
-  vrai_nom: Nam
-  titre: Gardien du Réseau // Assassin Numérique
-  formation: BTS CIEL
-  affiliation: Confrérie du Blue Team
+identity:
+  name: Nam
+  alias: Namgeko
+  role: Cybersecurity & Network Engineer
+  education: BTS CIEL
 
-quête_principale:
-  objectif: Devenir Ingénieur Cybersécurité
-  statut: En recherche d'une nouvelle Confrérie (alternance)
+objective:
+  goal: Ingénieur Cybersécurité
+  status: Recherche une alternance en cybersécurité
 
-compétences_du_credo:
-  - Surveillance & Renseignement (SOC / Blue Team)
-  - Fortification des Citadelles (Infrastructure & Systèmes)
-  - Rites de Durcissement Linux
-  - Maîtrise de l'Active Directory
-  - Défense des Frontières Réseau
+expertise:
+  - SOC / Blue Team
+  - Infrastructure & Administration Systèmes
+  - Linux Hardening
+  - Active Directory
+  - Sécurité Réseau
 
-philosophie: >
-  Comme un Assassin infiltrant ctOS, comme un garde veillant sur les
-  murs d'une cité assiégée par un fléau : je sécurise des environnements
-  d'entreprise, déploie des tours de guet numériques (supervision),
-  automatise les rituels répétitifs et apprends sans relâche, une
-  synchronisation à la fois.
+mindset: >
+  Passionné par la cybersécurité, l'infrastructure et l'administration système.
+  J'aime sécuriser des environnements d'entreprise, déployer des solutions de
+  supervision, automatiser les tâches répétitives et apprendre en continu.
 ```
 
 ---
 
-<h2 align="center">📜 CORBEAU MESSAGER — CONTACT</h2>
+<h2 align="center"> CONNEXION SÉCURISÉE</h2>
 
 <div align="center">
 
@@ -64,7 +61,7 @@ philosophie: >
 
 ---
 
-<h2 align="center">🌍 PARCHEMINS LINGUISTIQUES DÉCHIFFRÉS</h2>
+<h2 align="center"> LANGUAGE_PACKS.INSTALLED</h2>
 
 <div align="center">
 
@@ -76,7 +73,7 @@ philosophie: >
 
 ---
 
-<h2 align="center">⚔️ ARSENAL DE LA CONFRÉRIE</h2>
+<h2 align="center"> TECH_STACK.LOADED</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,php,javascript,bash,powershell,html,css,mysql,sqlite,git,linux,docker,github,raspberrypi,arduino&theme=dark"/>
@@ -97,28 +94,28 @@ philosophie: >
 
 ---
 
-<h2 align="center">🏰 QUÊTES ACCOMPLIES</h2>
+<h2 align="center"> MISSIONS.EXE</h2>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ WAZUH SIEM — LA TOUR DE GUET
-**Déploiement d'une garnison de supervision à l'échelle du royaume**
+### 🛡️ WAZUH SIEM
+**Déploiement complet d'une infrastructure de supervision**
 
-- ✅ Configuration du dashboard (la salle des cartes)
-- ✅ Déploiement d'agents (les éclaireurs)
-- ✅ Analyse de logs & corrélation (interrogatoire des espions)
-- ✅ Automatisation des alertes (le tocsin)
+- ✅ Configuration du dashboard
+- ✅ Déploiement d'agents
+- ✅ Analyse de logs & corrélation
+- ✅ Automatisation des alertes
 - ✅ Règles de détection custom
-- ✅ Surveillance des intrusions ennemies
+- ✅ Surveillance des intrusions
 
 `SIEM` `Blue Team` `Detection Engineering`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 SMART GREENHOUSE — LES JARDINS D'IVENDELL
+###  SMART GREENHOUSE
 **Serre connectée pilotée par ESP32**
 
 - 🌡️ Monitoring température & humidité
@@ -133,12 +130,12 @@ philosophie: >
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 ENTERPRISE NETWORK — LES MURS DE LA CITADELLE
-**Conception d'une infrastructure réseau digne d'un siège**
+###  ENTERPRISE NETWORK
+**Conception d'une infrastructure réseau d'entreprise**
 
-- 🔀 VLAN & segmentation (les quartiers de la cité)
+- 🔀 VLAN & segmentation
 - 🧭 Routage inter-VLAN
-- 🔐 ACL & filtrage (les portes gardées)
+- 🔐 ACL & filtrage
 - 🖧 Switches & routeurs Cisco
 - 🏰 Architecture sécurisée
 
@@ -147,8 +144,8 @@ philosophie: >
 </td>
 <td width="50%" valign="top">
 
-### 📜 RELIQUES & CERTIFICATIONS
-**Artefacts collectés au fil de l'entraînement**
+### CERTIFICATIONS
+**Formation continue & veille technique**
 
 - ✔️ Cisco NetAcad
 - ✔️ ANSSI MOOC (SecNumacadémie)
@@ -163,7 +160,7 @@ philosophie: >
 
 ---
 
-<h2 align="center">📊 FLUX DE DONNÉES — GITHUB STATS</h2>
+<h2 align="center"> DATA_STREAM — GITHUB STATS</h2>
 
 <div align="center">
 
@@ -178,7 +175,7 @@ philosophie: >
 
 ---
 
-<h2 align="center">👑 LA SALLE DU TRÔNE — TROPHY ROOM</h2>
+<h2 align="center"> TROPHY_ROOM</h2>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Namgeko&theme=darkhub&no-frame=true&row=2&column=4"/>
@@ -186,24 +183,22 @@ philosophie: >
 
 ---
 
-<h2 align="center">🧬 SPÉCIMEN T — CONTRIBUTION SNAKE</h2>
+<h2 align="center"> CTOS_TRACE — CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Namgeko/Namgeko/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-<sub>⚠️ La créature s'anime chaque jour via GitHub Actions — voir le fichier <code>snake.yml</code> ci-dessous pour la réveiller sur ton dépôt.</sub>
-
 </div>
 
 ---
 
-<h2 align="center">🎯 NIVEAU DE SYNCHRONISATION — ARBRE DE COMPÉTENCES</h2>
+<h2 align="center"> CURRENT_MISSION.PROGRESS</h2>
 
 ```text
 ████████████████████████████████████████
 
-RAPPORT DE MISSION — NIVEAU DE MAÎTRISE
+SYSTEM STATUS
 
 Linux             █████████████░░  85%
 Windows Server    ██████████░░░░░  70%
@@ -217,7 +212,7 @@ SOC               ███████████░░░░  80%
 
 ---
 
-<h2 align="center">📖 GRIMOIRE EN COURS DE LECTURE</h2>
+<h2 align="center"> NOW_LOADING...</h2>
 
 <table align="center">
 <tr>
@@ -245,7 +240,7 @@ SOC               ███████████░░░░  80%
 </td>
 <td valign="top">
 
-**Prochaines reliques**
+**Prochaines certifs**
 - Security+
 - eJPT
 - OSCP
@@ -256,7 +251,7 @@ SOC               ███████████░░░░  80%
 
 ---
 
-<h2 align="center">🎮 HORS-CONNEXION — MODE TAVERNE</h2>
+<h2 align="center"> OFFLINE_MODE</h2>
 
 <div align="center">
 
@@ -266,34 +261,34 @@ SOC               ███████████░░░░  80%
 
 ---
 
-<h2 align="center">💻 TERMINAL DE LA CITADELLE</h2>
+<h2 align="center"> TERMINAL</h2>
 
 ```bash
 $ sudo systemctl status namgeko
 
-● cybersecurity.service - Nœud Opérateur de la Confrérie
+● cybersecurity.service - CTOS Operative Node
    Loaded: enabled
    Active: ● active (running)
 
-   Eagle Vision   : ENABLED
-   Firewall       : RUNNING
-   Réseau         : SÉCURISÉ
-   Journaux       : STREAMING EN CONTINU
-   Quête actuelle : EN RECHERCHE DE NOUVEAUX DÉFIS
+   Monitoring   : ENABLED
+   Firewall     : RUNNING
+   Network      : SECURED
+   Logs         : STREAMING
+   Mission      : FINDING NEW CHALLENGES
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Namgeko&style=for-the-badge&color=00FFC8&label=VOYAGEURS+ACCUEILLIS"/>
+<img src="https://komarev.com/ghpvc/?username=Namgeko&style=for-the-badge&color=00FFC8&label=CTOS+VISITORS"/>
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC8,50:003B2B,100:000000&height=120&section=footer"/>
 
-**⚡ Merci d'avoir consulté ce profil.**
+** Merci d'avoir consulté ce profil.**
 
-*"Hack the code. Guard the realm. Survive the breach."*
+*"Hack the code. Secure the future."*
 
 </div>
