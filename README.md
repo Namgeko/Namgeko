@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-dark.svg" width="100%" alt="Firdaws Abiderrahmane — banner"/>
+<img src="banner-dark.svg" width="100%" alt="Firdaws — banner"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 ### `whoami`
 
 ```yaml
-nom:       Firdaws Abiderrahmane
+nom:       Firdaws
 alias:     Namgeko
 formation: BTS CIEL, option Informatique et Réseaux (IR) — obtenu juillet 2026
 objectif:  École d'ingénieur en alternance (3e année) — Cybersécurité / Réseaux
