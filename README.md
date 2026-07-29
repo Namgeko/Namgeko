@@ -84,7 +84,7 @@ Fraîchement diplômée d'un **BTS CIEL IR**, je me spécialise en **cybersécur
 
 ![ISTQB](https://img.shields.io/badge/🏆_ISTQB_Foundation-00FF41?style=for-the-badge&labelColor=020602)
 ![ANSSI](https://img.shields.io/badge/🏆_ANSSI_MOOC_SecNum-00FF41?style=for-the-badge&labelColor=020602)
-![Cisco](https://img.shields.io/badge/🎯_Cisco_NetAcad_(en_cours)-444444?style=for-the-badge&labelColor=020602)
+![Cisco](https://img.shields.io/badge/🎯_Cisco_NetAcad-00FF41?style=for-the-badge&labelColor=020602)
 
 | 🇫🇷 Français | 🇬🇧 Anglais | 🇸🇦 Arabe | 🇩🇪 Allemand | 🇯🇵 Japonais | 🇰🇷 Coréen |
 |:---:|:---:|:---:|:---:|:---:|:---:|
