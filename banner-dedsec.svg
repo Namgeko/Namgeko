@@ -138,7 +138,7 @@
     </g>
 
     <g transform="translate(524,90)" filter="url(#glow)">
-      <text font-family="'Share Tech Mono', Consolas, monospace" font-size="26" fill="#EAFFEC">Hi <tspan>👋</tspan></text>
+      <text font-family="'Share Tech Mono', Consolas, monospace" font-size="26" fill="#EAFFEC">Hello World<tspan> ! </tspan></text>
     </g>
     <g transform="translate(524,128)" filter="url(#glow)">
       <text font-family="'Share Tech Mono', Consolas, monospace" font-size="30" font-weight="bold" fill="url(#nameGrad)">I'm Firdaws</text>
