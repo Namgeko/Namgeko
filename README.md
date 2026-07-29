@@ -8,9 +8,8 @@
 
 ![Alternance](https://img.shields.io/badge/RECHERCHE-ALTERNANCE_CYBERSÉCURITÉ-00FF41?style=for-the-badge&labelColor=020602)
 ![Diplome](https://img.shields.io/badge/BTS_CIEL_IR-OBTENU_2026-00FF41?style=for-the-badge&labelColor=020602)
-![Location](https://img.shields.io/badge/📍-Lyon,_France-00FF41?style=for-the-badge&labelColor=020602)
 
-📡 [LinkedIn](https://www.linkedin.com/in/firdawsabiderrahmane) · ✉️ [firdaws.abiderrahmane@yahoo.com](mailto:firdaws.abiderrahmane@yahoo.com) · 🕹️ [GitHub](https://github.com/Namgeko)
+🕹️ [GitHub](https://github.com/Namgeko)
 
 </div>
 
@@ -27,14 +26,14 @@ recherche: Alternance à partir de septembre / octobre 2026
 passions:  Cybersécurité (CTF, Root-Me), Mécatronique, Sport, Jeux vidéo, Voyage
 ```
 
-Fraîchement diplômée d'un **BTS CIEL IR**, je me spécialise en **cybersécurité et administration réseau**. Pendant mon stage à la Mairie de Tassin-la-Demi-Lune, j'ai déployé **seule** un SIEM Wazuh et géré l'authentification réseau — une expérience qui a confirmé mon envie d'aller vers un niveau ingénieur. Je cherche aujourd'hui une **alternance cybersécurité / réseaux** pour continuer en école d'ingénieur.
+Fraîchement diplômée d'un **BTS CIEL IR**, je me spécialise en **cybersécurité et administration réseau**. Pendant mon stage de ma première année, j'ai déployé **seule** un SIEM Wazuh et géré l'authentification réseau — une expérience qui a confirmé mon envie d'aller vers un niveau ingénieur. Je cherche aujourd'hui une **alternance cybersécurité / réseaux** pour continuer en école d'ingénieur.
 
 ---
 
 ### 🛡️ Expérience
 
-**Mairie de Tassin-la-Demi-Lune** — Stage Informatique, Réseaux & Cybersécurité
-*Lyon | mai – juillet 2025*
+**Mairie** — Stage Informatique, Réseaux & Cybersécurité
+*| mai – juillet 2025*
 
 - Déploiement en solo d'un **SIEM Wazuh** (agents, dashboards, alertes personnalisées)
 - Administration serveur **Proxmox** (VMs, conteneurs)
