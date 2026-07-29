@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-dark.svg" width="100%" alt="Firdaws — banner"/>
+<img src="banner-dark.svg" width="100%" alt="Firdaws Abiderrahmane — banner"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 ![Diplome](https://img.shields.io/badge/BTS_CIEL_IR-OBTENU_2026-00FF41?style=for-the-badge&labelColor=020602)
 ![Location](https://img.shields.io/badge/📍-Lyon,_France-00FF41?style=for-the-badge&labelColor=020602)
 
-🕹️ [GitHub](https://github.com/Namgeko)
+📡 [LinkedIn](https://www.linkedin.com/in/firdawsabiderrahmane) · ✉️ [firdaws.abiderrahmane@yahoo.com](mailto:firdaws.abiderrahmane@yahoo.com) · 🕹️ [GitHub](https://github.com/Namgeko)
 
 </div>
 
@@ -19,7 +19,7 @@
 ### `whoami`
 
 ```yaml
-nom:       Firdaws 
+nom:       Firdaws Abiderrahmane
 alias:     Namgeko
 formation: BTS CIEL, option Informatique et Réseaux (IR) — obtenu juillet 2026
 objectif:  École d'ingénieur en alternance (3e année) — Cybersécurité / Réseaux
