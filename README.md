@@ -9,8 +9,6 @@
 ![Alternance](https://img.shields.io/badge/RECHERCHE-ALTERNANCE_CYBERSÉCURITÉ-00FF41?style=for-the-badge&labelColor=020602)
 ![Diplome](https://img.shields.io/badge/BTS_CIEL_IR-OBTENU_2026-00FF41?style=for-the-badge&labelColor=020602)
 
-🕹️ [GitHub](https://github.com/Namgeko)
-
 </div>
 
 ---
