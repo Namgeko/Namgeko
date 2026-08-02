@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-win7-style-avatar.svg" width="100%" alt="Firdaws Abiderrahmane — bannière"/>
+<img src="banner-win7-style.svg" width="100%" alt="Firdaws— bannière"/>
 
 <h2>Firdaws Abiderrahmane</h2>
 <p><b>Technicienne cybersécurité &amp; réseaux</b> — Recherche une alternance ingénieur (sept./oct. 2026)</p>
