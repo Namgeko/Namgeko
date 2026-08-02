@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-dark.svg" width="100%" alt="Firdaws — banner"/>
+<img src="banner-dedsec.svg" width="100%" alt="Firdaws — banner"/>
 
 </div>
 
